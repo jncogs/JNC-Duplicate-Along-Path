@@ -8,7 +8,7 @@
 
 ## Version
 
-**1.0.0** - 8/16/2026
+**1.0.1** - 8/17/2026
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer.
 
@@ -137,6 +137,7 @@ The categories for this plug-in are as follows:
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 08/16/2026 | 1.0.0 | Initial release |
+| 08/17/2026 | 1.0.1 | Fixed bug where decomposing with a Group in the duplication objects would be sent to the Screen Plane |
 
 ## Known Bugs
 
